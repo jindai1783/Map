@@ -3,5 +3,9 @@
 }
 
 #inner-circle:hover {
-  fill: blue;
+  fill: red;
+}
+
+#keyboard:hover {
+  fill: red;
 }

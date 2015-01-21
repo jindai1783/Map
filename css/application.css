@@ -18,3 +18,7 @@
   stroke-opacity: 1;
   stroke-width:0.5;
 }
+
+#06075:hover {
+  fill:yellow;
+}

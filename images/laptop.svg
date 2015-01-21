@@ -1,6 +1,7 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
      viewBox="0 0 648 500" enable-background="new 0 0 648 500" xml:space="preserve">
 <g>
+    <set attributeName="opacity" from="1" to="0.5" begin="mouseover" end="mouseout"/>
     <rect x="81.479" y="30.406" fill="#989898" width="485.58" height="345.509"/>
     <polygon fill="#818181" id="keyboard" points="81.479,375.915 6.775,450.619 641.765,450.619 567.06,375.915     "/>
     <polygon fill="#676767" points="620.983,469.296 23.345,469.296 4.669,450.619 639.659,450.619    "/>
